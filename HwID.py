@@ -3,8 +3,8 @@
         "username": "Radon",
         "rank": "ADMIN"
     },
-    "114514-E8FB-11EA-8B14-810": {
-        "username": "あうあう",
-        "rank": "BUYER"
+    "A708C1DC-5526-1178-A130-C75571815B2D": {
+        "username": "Radon_PC_Sub",
+        "rank": "ADMIN"
     }
 }
